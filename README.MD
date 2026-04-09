@@ -15,6 +15,13 @@ O modelo analisa características como localização, tipo de imóvel e capacida
 
 ---
 
+## 🌐 Aplicação Online
+
+🔗 Acesse a aplicação:  
+https://airbnb-price-prediction-rio.streamlit.app/
+
+---
+
 ## 🚀 Tecnologias
 
 - Python
@@ -61,7 +68,7 @@ Após baixar:
 ## ⚙️ Como executar
 
 ```bash
-git clone https://github.com/seu-usuario/airbnb-price-predictor.git
+git clone https://github.com/guilhermebatis/airbnb-price-prediction-rio
 cd airbnb-price-predictor
 
 python -m venv venv
@@ -98,7 +105,6 @@ streamlit run app.py
 
 ## 🚀 Próximos passos
 
-- Deploy em nuvem
 - Criação de API com Django REST Framework
 - Otimização do modelo
 
